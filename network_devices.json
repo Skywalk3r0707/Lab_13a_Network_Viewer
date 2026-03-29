@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "PC01",
+        "IP": "192.168.1.10",
+        "MAC": "00:1A:2B:3C:4D:01",
+        "RAM": "8GB",
+        "SSD_Size": "512GB",
+        "Free_Space": "220GB"
+    },
+    {
+        "Name": "PC02",
+        "IP": "192.168.1.11",
+        "MAC": "00:1A:2B:3C:4D:02",
+        "RAM": "16GB",
+        "SSD_Size": "1TB",
+        "Free_Space": "640GB"
+    },
+    {
+        "Name": "PC03",
+        "IP": "192.168.1.12",
+        "MAC": "00:1A:2B:3C:4D:03",
+        "RAM": "8GB",
+        "SSD_Size": "256GB",
+        "Free_Space": "90GB"
+    },
+    {
+        "Name": "PC04",
+        "IP": "192.168.1.13",
+        "MAC": "00:1A:2B:3C:4D:04",
+        "RAM": "32GB",
+        "SSD_Size": "2TB",
+        "Free_Space": "1.2TB"
+    },
+    {
+        "Name": "PC05",
+        "IP": "192.168.1.14",
+        "MAC": "00:1A:2B:3C:4D:05",
+        "RAM": "16GB",
+        "SSD_Size": "512GB",
+        "Free_Space": "300GB"
+    },
+    {
+        "Name": "PC06",
+        "IP": "192.168.1.15",
+        "MAC": "00:1A:2B:3C:4D:06",
+        "RAM": "8GB",
+        "SSD_Size": "256GB",
+        "Free_Space": "110GB"
+    },
+    {
+        "Name": "PC07",
+        "IP": "192.168.1.16",
+        "MAC": "00:1A:2B:3C:4D:07",
+        "RAM": "64GB",
+        "SSD_Size": "4TB",
+        "Free_Space": "2.5TB"
+    },
+    {
+        "Name": "PC08",
+        "IP": "192.168.1.17",
+        "MAC": "00:1A:2B:3C:4D:08",
+        "RAM": "16GB",
+        "SSD_Size": "1TB",
+        "Free_Space": "500GB"
+    },
+    {
+        "Name": "PC09",
+        "IP": "192.168.1.18",
+        "MAC": "00:1A:2B:3C:4D:09",
+        "RAM": "32GB",
+        "SSD_Size": "2TB",
+        "Free_Space": "950GB"
+    },
+    {
+        "Name": "PC10",
+        "IP": "192.168.1.19",
+        "MAC": "00:1A:2B:3C:4D:10",
+        "RAM": "8GB",
+        "SSD_Size": "512GB",
+        "Free_Space": "180GB"
+    }
+]
